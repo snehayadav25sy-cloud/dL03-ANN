@@ -1,5 +1,7 @@
 # dL03-ANN
 ANN Indepth Intuition
+
+
 🧠 Artificial Neural Networks (ANN) in Deep Learning
 🔍 Overview
 Artificial Neural Networks (ANNs) are the foundational building blocks of deep learning. Inspired by the structure and function of the human brain, ANNs consist of interconnected layers of nodes (neurons) that transform input data into meaningful outputs through learned weights and activation functions.
